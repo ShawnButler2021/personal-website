@@ -23,7 +23,7 @@ body {
 }
 hr {
 	text-align: center;
-	width: 50%;
+	width: 50vw;
 	border: 1px solid black;
 }
 html {
@@ -33,7 +33,7 @@ html {
 
 .preview {
 	box-shadow: 0px 0px 10px 1px grey;
-	width: 40%;
+	width: 40vh;
 	margin: 2.5%;
 	display: inline-block;
 	padding: 2%;
@@ -44,8 +44,8 @@ html {
 	font-family: Garamond;
 	color: black;
 	min-height: 50vh;
-	width: 50%;
-	margin-left: 47%;
+	width: 50vw;
+	margin-left: 47vw;
 	padding-top: 0;
 	margin-top: 0;
 	padding-bottom: 0;
@@ -60,7 +60,7 @@ html {
 }
 .tab {
 	display: inline-block;
-	margin-left: 5%;
+	margin-left: 5vw;
 }
 .link {
 	color: black;
