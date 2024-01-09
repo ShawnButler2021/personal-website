@@ -15,7 +15,6 @@ body {
 	margin: 0px;
 	padding: 0px;
 
-
 	text-align: left;
 	font-family: Garamond;
 	color: black;
@@ -28,6 +27,7 @@ hr {
 }
 html {
 	scroll-behavior: smooth;
+	font-size: 115%;
 }
 
 
@@ -42,8 +42,6 @@ html {
 	padding-right: 2vw;
 	padding-top: 1vh;
 	padding-bottom: 1vh;
-	
-	font-size: 90%;
 }
 .content {
 	margin-left: 3vh;
