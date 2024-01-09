@@ -69,7 +69,7 @@ html {
 	transition: font-size 0.5s ease-in-out;
 }
 .link:hover {
-	color: #074a00;
+	color: grey;
 	font-size: 130%;
 }
 @keyframes fading{
