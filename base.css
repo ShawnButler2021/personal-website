@@ -23,7 +23,7 @@ body {
 }
 hr {
 	text-align: center;
-	width: 50vw;
+	width: 10vw;
 	border: 1px solid black;
 }
 html {
@@ -68,7 +68,7 @@ html {
 	transition: font-size 0.5s ease-in-out;
 }
 .link:hover {
-	color: green;
+	color: #074a00;
 	font-size: 130%;
 }
 @keyframes fading{
