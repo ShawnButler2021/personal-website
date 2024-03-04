@@ -1,8 +1,22 @@
-li {
-	list-style: none;
+html {
+	background: url("background.jpg");
+	background-size: cover;
+	scroll-behavior: smooth;
+	font-family: Garamond;
+}
+body{
+	background: white;
+	font-size: 110%;
+	align-content: center;
+	margin-left: 10vw;
+	width: 80vw;
+	height: 100%;
+	animation: fading 3s;
+	padding: 2%;
+	border-radius: 3%;
+	border: black 3px solid;
 }
 header {
-	font-family: Garamond;
 	font-size: 135%;
 	text-align: center;
 
@@ -11,43 +25,16 @@ header {
 	text-decoration: none;
 	animation: fading 4s 
 }
-body {
-	margin: 0px;
-	padding: 0px;
-
-	text-align: left;
-	font-family: Garamond;
-	color: black;
-	animation: fading 4s 
-}
 hr {
 	text-align: center;
 	width: 10vw;
 	border: 1px solid black;
 }
-html {
-	scroll-behavior: smooth;
-	font-size: 115%;
+h1 {
+	font-size: 200%;
+	text-align: center;
 }
 
-
-.preview {
-	box-shadow: 0px 0px 10px 1px grey;
-	border-radius: 4px;
-	margin: 2.5vw;
-	
-	display: inline-block;
-	
-	padding-left: 2vw;
-	padding-right: 2vw;
-	padding-top: 1vh;
-	padding-bottom: 1vh;
-}
-.content {
-	margin-left: 3vh;
-	margin-right: 3vh;
-	padding-bottom: 0;
-}
 .tab {
 	display: inline-block;
 	margin-left: 5vw;
